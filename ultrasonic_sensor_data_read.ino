@@ -1,5 +1,5 @@
  
-//sensor pin define
+//ultrasonic sensor pin define
 const int trigpin1 = 2;
 const int echopin1 = 3;
 
